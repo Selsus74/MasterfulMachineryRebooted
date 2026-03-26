@@ -9,6 +9,4 @@ The mod allows mod-pack developers to create custom multi-block machines.
 
 ### Documentation
 
-The Latest Docs can be found [newdocs.masterfulmc.com](https://newdocs.masterfulmc.com/)
-
-1.16,1.18 docs can be found [docs.masterfulmc.com](https://docs.masterfulmc.com/masterfulmachinery)
+At this time none
